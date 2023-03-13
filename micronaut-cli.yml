@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.element
+testFramework: spock
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, gradle, http-client, jackson-databind, java, java-application, logback, micronaut-build, netty-server, readme, rxjava3, rxjava3-http-client, shade, spock, yaml]
